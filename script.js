@@ -1,4 +1,4 @@
-"use strict"
+/* "use strict"
 
 const sonido = document.createElement("iframe");
 
@@ -230,3 +230,4 @@ document.addEventListener("keydown", (e)=>{
 recuperarValores() */
 
 
+ */
